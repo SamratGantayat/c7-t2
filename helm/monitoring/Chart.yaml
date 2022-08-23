@@ -1,0 +1,6 @@
+apiVersion: v2
+name: monitoring
+appVersion: "1.0"
+description: A helm chart for kibana and Grafana monitoring tools
+version: 0.1.0
+type: application
